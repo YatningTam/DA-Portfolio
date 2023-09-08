@@ -1,3 +1,3 @@
-# Portfolio Summary
+# Summary
 
-This portfolio contains projects done in Excel, Python, SQL Server and Tableau to showcase my skills.
+Using SQL query language to investigate the Covid Deaths dataset.
